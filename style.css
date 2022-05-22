@@ -56,7 +56,8 @@ body {
     transition: 1s;
     border-radius: 50px;
     margin-left: -50px;
-    padding-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 /*navbar*/
 
@@ -69,4 +70,4 @@ body {
     position: relative;
 }
 
-/*hero*/
+/*rotating hero*/
